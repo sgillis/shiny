@@ -1,4 +1,4 @@
-FROM r-base:latest
+FROM r-base:3.1.3
 
 MAINTAINER Winston Chang "winston@rstudio.com"
 
